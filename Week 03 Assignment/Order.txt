@@ -1,0 +1,15 @@
+..................................................
+ITCS 2530 - Programming Assignment for week #3
+..................................................
+
+Please enter the item name (no spaces)...........:ast
+Is the item fragile? (y=yes/n=no)................:n
+Please enter your order total....................:5
+Please enter destination. (usa/can/aus/sat)......:sat
+
+Your item is ...........................AST
+Your shipping cost is ..................$20.00
+You are shipping to ....................SAT
+Your total shipping costs are...........$25.00
+
+----------------------------------------Thank You!
